@@ -1,0 +1,11 @@
+.main-title {
+  margin: 0;
+  max-width: 720px;
+  color: #FFFFFF;
+  font-size: 96px;
+  font-weight: 900;
+  line-height: 100px;
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 32px;
+}

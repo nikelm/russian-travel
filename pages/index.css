@@ -2,5 +2,10 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/logo/logo.css);
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/main-title/main-title.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/train-map/train-map.css);
+@import url(../blocks/text-uppercase/text-uppercase.css);
 
 

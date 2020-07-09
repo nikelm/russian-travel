@@ -1,0 +1,9 @@
+.train-map {
+  max-width: 984px;
+  max-height: 615px;
+
+  object-fit: cover;
+  position: relative;
+  margin: 0 auto;
+  padding-bottom: 8px;
+}
