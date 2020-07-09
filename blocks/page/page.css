@@ -1,0 +1,30 @@
+@font-face {
+    src: url(../../fonts/Inter-Regular.otf);
+    font-family: 'Inter-Regular';
+}
+
+@font-face {
+    src: url(../../fonts/Inter-Italic.otf);
+    font-family: 'Inter-Italic';
+    font-style: italic;
+}
+
+@font-face {
+    src: url(../../fonts/Inter-Bold.otf);
+    font-family: 'Inter-Bold';
+    font-weight: bold;
+}
+
+@font-face {
+    src: url(../../fonts/Inter-BoldItalic.otf);
+    font-family: 'Inter-BoldItalic';
+    font-style: italic;
+    font-weight: bold;
+}
+
+.page {
+    font-family: 'Inter-Regular', Arial, sans-serif;
+    min-width: 1280px;
+    margin: 0 auto;
+    background-color: #2A2C2F;
+}
