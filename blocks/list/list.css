@@ -1,0 +1,15 @@
+@import url(./__item/list__item.css);
+
+.list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  padding-top: 32px;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  outline: blue solid;
+  padding-bottom: 92px;
+}
+
