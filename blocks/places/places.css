@@ -1,0 +1,14 @@
+@import url(./__place/places__place.css);
+@import url(./__place/__image/place__image.css);
+@import url(./__place/__link/place__link.css);
+@import url(./__place/__paragraph/place__paragraph.css);
+@import url(./__place/__url-heading/place__url-heading.css);
+@import url(./__place/__website/place__website.css);
+
+.places {
+  margin: 0 auto;
+  max-width: 984px;
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 80px;
+}

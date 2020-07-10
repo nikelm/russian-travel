@@ -1,7 +1,10 @@
 .section-title {
   margin: 0;
+  width: 460px;
+  max-height: 152px;
   color: #FFFFFF;
+  font-style: normal;
   font-weight: 900;
-  font-size: 96px;
-  line-height: 58px;
+  font-size: 72px;
+  line-height: 76px;
 }
