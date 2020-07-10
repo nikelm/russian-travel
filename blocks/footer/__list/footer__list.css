@@ -1,0 +1,7 @@
+.footer__list {
+  padding: 0;
+  display: flex;
+  list-style-type: none;
+  color: #ffffff;
+}
+
