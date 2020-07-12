@@ -8,4 +8,15 @@
   grid-template-rows: 213px 213px 213px;
   grid-gap: 16px;
   padding-bottom: 92px;
+
+}
+
+@media screen and (max-width: 1024px) {
+  .photo-grid {
+    max-width: 928px;
+    max-height: 942px;
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: 225px 225px 225px 225px;
+    grid-gap: 14px;
+  }
 }

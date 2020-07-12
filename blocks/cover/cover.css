@@ -4,6 +4,7 @@
 
 .cover{
   margin: 0 auto;
+  padding-top: 12px;
   max-width: 1184px;
   min-height: 740px;
   display: flex;

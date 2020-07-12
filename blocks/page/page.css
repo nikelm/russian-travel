@@ -32,3 +32,10 @@
     margin: 0 auto;
     background-color: #2A2C2F;
 }
+
+@media screen and (max-width: 1024px) {
+  .page {
+    font-family: 'Inter-Regular', Arial, sans-serif;
+ 
+  }
+}
