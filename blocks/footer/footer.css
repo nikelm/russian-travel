@@ -15,6 +15,23 @@
 @media screen and (max-width: 1024px) {
   .footer {
     max-width: 928px;
-    
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .footer {
+    max-width: 720px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer {
+    padding-top: 64px;
+    max-width: 186px;
+    min-height: 310px;
+    flex-direction: column;
+    margin-left: 16px;
+    align-items: flex-start;
+
   }
 }

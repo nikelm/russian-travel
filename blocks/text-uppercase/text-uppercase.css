@@ -8,3 +8,16 @@
   min-height: 14px;
   padding-bottom: 92px;
 }
+
+@media screen and (max-width: 768px) {
+  .text-uppercase {
+    padding-left: 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .text-uppercase {
+    padding-left: 16px;
+    padding-bottom: 64px;
+  }
+}

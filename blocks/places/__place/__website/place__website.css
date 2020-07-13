@@ -2,13 +2,27 @@
   min-width: 456px;
   margin-left: 40px;
   align-self: flex-end;
-  
+
 }
 
 @media screen and (max-width: 1024px) {
   .place__website {
     margin-left: 32px;
-
   }
 }
 
+@media screen and (max-width: 768px) {
+  .place__website {
+    min-width: 332px;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    margin-left: 32px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__website {
+    display: none;
+  }
+}

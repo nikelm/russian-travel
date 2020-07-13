@@ -11,6 +11,18 @@
 @media screen and (max-width: 1024px) {
   .train-map {
     max-width: 928px;
-    
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .train-map {
+    max-width: 768px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .train-map {
+    max-width: 300px;
+    max-height: 200px;
   }
 }

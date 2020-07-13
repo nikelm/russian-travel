@@ -11,3 +11,10 @@
     max-height: 962px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .lead {
+    max-width: 768px;
+    
+  }
+}

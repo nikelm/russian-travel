@@ -4,3 +4,9 @@
   flex-wrap: wrap;
   padding-top: 48px;
 }
+
+@media screen and (max-width: 320px) {
+  .places__place {
+    
+    padding-top: 32px;
+  }
