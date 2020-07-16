@@ -1,0 +1,44 @@
+/*Обычный */
+
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: normal;
+    src: url(./Inter-Regular.otf);
+}
+
+/*Жирный*/
+
+@font-face {
+    font-family: 'Inter';
+    font-weight: bold;
+    font-style: normal;
+    src: url(./Inter-Bold.otf);
+}
+
+/*Курсив*/
+
+@font-face {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: normal;
+    src: url(./Inter-Italic.otf);
+}
+
+/*Жирный курсив*/
+
+@font-face {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: bold;
+    src: url(./Inter-BoldItalic.otf);
+}
+
+/* Inter-Black */
+
+@font-face {
+    font-family: 'Inter-Black';
+    font-style: normal;
+    font-weight: normal;
+    src: url(./Inter-Black.otf);
+}

@@ -1,17 +1,11 @@
 @import url(../vendor/normalize.css);
-@import url(../blocks/page/page.css);
+@import url(../vendor/fonts/fonts.css);
+@import url(../blocks/body/body.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/lead/lead.css);
-@import url(../blocks/main-title/main-title.css);
-@import url(../blocks/section-subtitle/section-subtitle.css);
-@import url(../blocks/train-map/train-map.css);
-@import url(../blocks/text-uppercase/text-uppercase.css);
 @import url(../blocks/intro/intro.css);
-@import url(../blocks/section-title/section-title.css);
-@import url(../blocks/list/list.css);
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/places/places.css);
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/footer/footer.css);
-
