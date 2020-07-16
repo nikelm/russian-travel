@@ -8,8 +8,7 @@
 @media screen and (max-width: 1279px) {
   .places__content {
     max-width: 928px;
-    display: flex;
-    flex-wrap: wrap;
+
 }
 
 }
@@ -17,8 +16,7 @@
 @media screen and (max-width: 1023px) {
   .places__content {
     max-width: 720px;
-    display: flex;
-    flex-wrap: wrap;
+
 }
 
 }
@@ -26,8 +24,7 @@
 @media screen and (max-width: 767px) {
   .places__content {
     max-width: 320px;
-    display: flex;
-    flex-wrap: wrap;
+
 }
 
 }

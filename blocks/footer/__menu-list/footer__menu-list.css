@@ -9,11 +9,8 @@
 @media screen and (max-width: 767px) {
 
   .footer__menu-list {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
     display: block;
-    /*flex-direction: column;*/
+
   }
 
 

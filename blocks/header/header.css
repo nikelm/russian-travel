@@ -1,16 +1,14 @@
-@import url(./__link/_active/header__link_active.css);
-@import url(./__link/_inacive/header__link_inactive.css);
-@import url(./__link/header__link.css);
 @import url(./__menu-language/header__menu-language.css);
+@import url(./__link/header__link.css);
+@import url(./__link/_active/header__link_active.css);
 
 .header {
     margin: 0 auto;
     max-width: 1184px;
-    max-height: 52px;
     margin-top: 28px;
     display: flex;
     justify-content: space-between;
- 
+
 }
 
 @media screen and (max-width: 1279px) {
@@ -28,5 +26,6 @@
 @media screen and (max-width: 767px) {
     .header {
         max-width: 288px;
+        max-height: 42px;
     }
   }

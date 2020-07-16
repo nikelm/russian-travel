@@ -11,9 +11,7 @@
   .places__description {
     max-width: 456px;
     margin-left: 32px;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
+
 }
 
 }
@@ -23,9 +21,7 @@
   .places__description {
     max-width: 352px;
     margin-left: 28px;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
+
 }
 
 }

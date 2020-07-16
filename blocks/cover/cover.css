@@ -12,34 +12,24 @@
     margin-bottom: 92px;
     justify-content: center;
     align-items: center;
+    position: relative;
 }
 
 
 @media screen and (max-width: 1279px) {
   .cover {
-    margin: 0 auto;
     max-width: 1024px;
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 92px;
     margin-top: 12px;
-    justify-content: center;
-    align-items: center;
   }
 
 }
 
-
 @media screen and (max-width: 1023px) {
     .cover {
-      margin: 0 auto;
       max-width: 768px;
-      display: flex;
-      flex-direction: column;
       margin-bottom: 88px;
       margin-top: 64px;
-      justify-content: center;
-      align-items: center;
+
     }
 
   }
@@ -47,14 +37,10 @@
 
 @media screen and (max-width: 767px) {
     .cover {
-      margin: 0 auto;
       max-width: 320px;
-      display: flex;
-      flex-direction: column;
       margin-bottom: 64px;
       margin-top: 40px;
-      justify-content: center;
-      align-items: center;
+
     }
 
 }

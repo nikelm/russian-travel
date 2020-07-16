@@ -37,8 +37,8 @@
 /* Inter-Black */
 
 @font-face {
-    font-family: 'Inter-Black';
+    font-family: 'Inter';
     font-style: normal;
-    font-weight: normal;
+    font-weight: 900;
     src: url(./Inter-Black.otf);
 }

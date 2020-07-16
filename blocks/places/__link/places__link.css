@@ -1,5 +1,5 @@
 .places__link {
-    font-family: 'Inter';
+    font-family: 'Inter', 'Arial', sans-serif; ;;
     font-size: 18px;
     line-height: 22px;
     text-decoration: underline;
@@ -9,9 +9,8 @@
 
 .places__link:hover {
   opacity: 0.8;
-  transition: opacity 1s linear 0.1s;
 }
-
+/*
 @media screen and (max-width: 1279px) {
   .places__link {
     font-size: 18px;
@@ -33,3 +32,4 @@
 }
 
 }
+*/
