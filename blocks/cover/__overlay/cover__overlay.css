@@ -1,14 +1,11 @@
 .cover__overlay {
-  background-image: url(../../../images/cover-trains.jpg);
-  background-size: cover;
-  background-position: center;
-  min-width: 1184px;
   max-width: 1184px;
   min-height: 740px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -2;
 }
 
 .cover__overlay:hover {

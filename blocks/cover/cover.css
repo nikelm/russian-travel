@@ -5,14 +5,10 @@
 
 
 .cover {
-    margin: 0 auto;
-    max-width: 1184px;
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 92px;
-    justify-content: center;
-    align-items: center;
-    position: relative;
+  margin: 0 auto;
+  max-width: 1184px;
+  margin-bottom: 92px;
+
 }
 
 
