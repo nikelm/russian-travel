@@ -8,31 +8,14 @@
   line-height: 76px;
   color: #ffffff;
   margin-bottom: 32px;
-  
+
  }
-
-@media screen and (max-width: 1279px) {
-  .cover__title {
-    top: 195px;
-  }
-
-}
-
-
-@media screen and (max-width: 1023px) {
-  .cover__title {
-    top: 115px;
-  }
-
-}
 
 @media screen and (max-width: 767px) {
   .cover__title {
     font-size: 32px;
     line-height: 35px;
-    color: #ffffff;
     margin-bottom: 16px;
-    top: 33px;
   }
 
 }

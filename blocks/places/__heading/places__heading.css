@@ -1,6 +1,5 @@
 .places__heading {
   margin: 0;
-  max-width: 460px;
   min-width: 460px;
   max-width: 152px;
   font-family: 'Inter', 'Arial', sans-serif;
@@ -11,13 +10,11 @@
   color: #ffffff;
   display: flex;
   align-items: flex-end;
-
 }
 
 
 @media screen and (max-width: 1279px) {
   .places__heading {
-    max-width: 440px;
     min-width: 440px;
     max-width: 152px;
 }
@@ -27,10 +24,8 @@
 @media screen and (max-width: 1023px) {
   .places__heading {
     min-width: 340px;
-    max-width: 340px;
     font-size: 42px;
     line-height: 46px;
-    display: flex;
     align-items: flex-start;
     margin-top: 48px;
 }
@@ -39,14 +34,10 @@
 
 @media screen and (max-width: 767px) {
   .places__heading {
-
-    max-width: 288px;
     min-width: 288px;
-    min-height: 35px;
     font-size: 32px;
     line-height: 35px;
     margin-bottom: 32px;
-    display: flex;
     align-items: flex-end;
     margin-top: 24px;
 }

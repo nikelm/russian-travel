@@ -1,6 +1,6 @@
 .places__paragraph {
     margin: 0;
-    font-family: 'Inter', 'Arial', sans-serif; ;;
+    font-family: 'Inter', 'Arial', sans-serif;
     max-width: 484px;
     font-size: 18px;
     line-height: 30px;
@@ -26,14 +26,4 @@
 }
 
 }
-/*
-@media screen and (max-width: 767px) {
-  .places__paragraph {
 
-
-    margin-bottom: 24px;
-    color: #ffffff;
-}
-
-}
-*/

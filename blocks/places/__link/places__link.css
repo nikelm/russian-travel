@@ -1,5 +1,5 @@
 .places__link {
-    font-family: 'Inter', 'Arial', sans-serif; ;;
+    font-family: 'Inter', 'Arial', sans-serif;
     font-size: 18px;
     line-height: 22px;
     text-decoration: underline;
@@ -10,26 +10,4 @@
 .places__link:hover {
   opacity: 0.8;
 }
-/*
-@media screen and (max-width: 1279px) {
-  .places__link {
-    font-size: 18px;
-    line-height: 22px;
-    text-decoration: underline;
-    margin-top: 12px;
-    color: #ffffff;
-}
 
-}
-
-@media screen and (max-width: 1023px) {
-  .places__link {
-    font-size: 18px;
-    line-height: 22px;
-    text-decoration: underline;
-    margin-top: 12px;
-    color: #ffffff;
-}
-
-}
-*/
