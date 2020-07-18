@@ -8,3 +8,11 @@
   line-height: 28px;
   text-decoration: none;
 }
+
+@media screen and (max-width: 767px) {
+  .header__list {
+      
+      font-size: 18px;
+      line-height: 24px;
+  }
+}
