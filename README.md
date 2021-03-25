@@ -17,4 +17,5 @@
 
 Несколько кратких описаний куда можно съездить на отдых в России (от Калиниграда до Владивостока).
 
-Ссылка проекта на GitHub: https://nikelm.github.io/russian-travel/
+Для просмотра - запустить в браузере index.html 
+или перейти по ссылке на GitHub: https://nikelm.github.io/russian-travel/
